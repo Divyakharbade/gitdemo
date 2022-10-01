@@ -69,3 +69,12 @@ print("Subset of the above Series:")
 n = 5
 ser2 = ser1[ser1 < n]
 print(ser2)
+
+
+
+cdsfldsf.ds
+mdkfhdk
+dmfdmf
+
+djfjd
+s
